@@ -13,7 +13,7 @@
 	</locale>
 
 	<!-- German (Germany) -->
-	<locale id="de-BE" sort="1">	
+	<locale id="de-DE" sort="1">	
 		<contributors value="Oxy-Queen"/>
 		<ui language="Language" region="Region" accept="OK" />
 		<label id="en-US,en-GB,en-CA" language="Englisch" region="Vereinigte Staaten"/>
