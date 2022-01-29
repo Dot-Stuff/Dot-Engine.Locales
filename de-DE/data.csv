@@ -1,22 +1,22 @@
-FLAG,CONTENT
-"$OPTIONS","Optionen"
-"$CONTROLS","Steuerung"
-"$COLORS","Farben"
-"$MODS","Mods"
-"$PREFERENCES","Präferenz"
-"$CUTSCENES","Zwischensequenze"
-"$NAUGHTYNESS","Unzensierung"
-"$DOWNSCROLL","Unteres scroll"
-"$MIDDLESCROLL","Mittleres scroll"
-"$FLASHING_MENU","Flackerndes Menü"
-"$CAMERA_ZOOMING_ON_BEAT","Camera Zooming auf Beat"
-"$FPS_COUNTER","FPS Zähler"
-"$AUTO_PENIS","Automatischer Penis"
-"$AUTO_PAUSE","Automatische Pause"
-"$KEYBOARD","Tastatur"
-"$GAMEPAD","Gamepad"
-"$UI","Oberfläche"
-"$NOTES","NOTES"
-"$OK","Ok"
-"$YES","Ja"
-"$No","Nein"
+flag	content
+OPTIONS Optionen
+CONTROLS Steuerung
+COLORS Farben
+MODS Mods
+PREFERENCES Präferenz
+CUTSCENES Zwischensequenze
+NAUGHTYNESS Unzensierung
+DOWNSCROLL Unteres scroll
+MIDDLESCROLL Mittleres scroll
+FLASHING_MENU Flackerndes Menü
+CAMERA_ZOOMING_ON_BEAT Camera Zooming auf Beat
+FPS_COUNTER FPS Zähler
+AUTO_PENIS Automatischer Penis
+AUTO_PAUSE Automatische Pause
+KEYBOARD Tastatur
+GAMEPAD Gamepad
+UI Oberfläche
+NOTES NOTES
+OK Ok
+YES Ja
+No Nein
