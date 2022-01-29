@@ -4,11 +4,18 @@
 	
 	<file id="fonts" value="fonts.xml"/>
 	
-	<!--American English-->
+	<!-- American English -->
 	<locale id="en-US" is_default="true" sort="0">	
 		<contributors value="ninjamuffin99"/>
 		<ui language="Language" region="Region" accept="Okay" />
 		<label id="en-US,en-GB,en-CA" language="English" region="United States"/>
 		<label id="nb-NO" language="Engelsk" region="U.S.A."/>
+	</locale>
+
+	<!-- German -->
+	<locale id="de-BE" sort="0">	
+		<contributors value="ninjamuffin99"/>
+		<ui language="Language" region="Region" accept="Okay" />
+		<label id="de-BE" language="English" region="Belgium"/>
 	</locale>
 </data>
