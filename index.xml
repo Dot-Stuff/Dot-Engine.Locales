@@ -16,6 +16,6 @@
 	<locale id="de-BE" sort="0">	
 		<contributors value="ninjamuffin99"/>
 		<ui language="Language" region="Region" accept="Okay" />
-		<label id="de-BE" language="English" region="Belgium"/>
+		<label id="de-BE" language="Englisch" region="Belgium"/>
 	</locale>
 </data>
