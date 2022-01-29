@@ -1,2 +1,6 @@
 # Dot-Engine.Locales
-Locales used in Dot-Engine
+Locales used for Dot-Engine
+
+## Available Translations
+English: Release
+German: Beta

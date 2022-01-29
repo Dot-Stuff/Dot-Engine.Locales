@@ -4,18 +4,25 @@
 	
 	<file id="fonts" value="fonts.xml"/>
 	
-	<!-- American English -->
+	<!-- American (U.S.) -->
 	<locale id="en-US" is_default="true" sort="0">	
 		<contributors value="ninjamuffin99"/>
 		<ui language="Language" region="Region" accept="Okay" />
 		<label id="en-US,en-GB,en-CA" language="English" region="United States"/>
-		<label id="nb-NO" language="Engelsk" region="U.S.A."/>
+		<label id="de-DE" language="German" region="Germany"/>
 	</locale>
 
-	<!-- German -->
-	<locale id="de-BE" sort="0">	
-		<contributors value="ninjamuffin99"/>
-		<ui language="Language" region="Region" accept="Okay" />
-		<label id="de-BE" language="Englisch" region="Belgium"/>
+	<!-- German (Germany) -->
+	<locale id="de-BE" sort="1">	
+		<contributors value="Oxy-Queen"/>
+		<ui language="Language" region="Region" accept="OK" />
+		<label id="en-US,en-GB,en-CA" language="Englisch" region="Vereinigte Staaten"/>
+		<label id="de-DE" language="Deutsch" region="Deutschland"/>
 	</locale>
+
+	<!-- Experimental Translations -->
+	<note id="beta">
+		<text id="en-US,en-GB,en-CA,yo-DA" title="BETA" body="This translation is still in beta. Untranslated text, missing characters, and other visual glitches are very likely not the fault of the translator."/>
+		<text id="de-DE" title="BETA" body="Diese übersetzung ist gerade in der beta phase. Nicht übersetzer text, fehlende charakter und andere visuelle glitche sind sehr verscheinlich nicht an schult des übersetzer."/>
+	</note>
 </data>
