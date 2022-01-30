@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <data>
-	<file id="data" value="data.tsv"/>
-	
-	<file id="fonts" value="fonts.xml"/>
+	<file id="data" value="options.tsv"/>
 	
 	<!-- American (U.S.) -->
 	<locale id="en-US" is_default="true" sort="0">	
