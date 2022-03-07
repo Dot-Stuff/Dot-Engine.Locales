@@ -1,22 +1,22 @@
 flag	content
-OPTIONS_OPTIONS	Optionen
-OPTIONS_CONTROLS	Steuerung
-OPTIONS_COLORS	Farben
-OPTIONS_MODS	Mods
-OPTIONS_PREFERENCES	Präferenz
-OPTIONS_CUTSCENES	Zwischensequenze
-OPTIONS_NAUGHTYNESS	Unzensierung
-OPTIONS_DOWNSCROLL	Unteres scroll
-OPTIONS_MIDDLESCROLL	Mittleres scroll
-OPTIONS_FLASHING_MENU	Flackerndes Menü
-OPTIONS_CAMERA_ZOOMING_ON_BEAT	Camera Zooming auf Beat
-OPTIONS_FPS_COUNTER	FPS Zähler
-OPTIONS_AUTO_PENIS	Automatischer Penis
-OPTIONS_AUTO_PAUSE	Automatische Pause
-OPTIONS_KEYBOARD	Tastatur
-OPTIONS_GAMEPAD	Gamepad
-OPTIONS_UI	Oberfläche
-OPTIONS_NOTES	NOTES
-OPTIONS_OK	Ok
-OPTIONS_YES	Ja
-OPTIONS_NO	Nein
+OPTIONS	Optionen
+CONTROLS	Steuerung
+COLORS	Farben
+MODS	Mods
+PREFERENCES	Präferenz
+CUTSCENES	Zwischensequenze
+NAUGHTYNESS	Unzensierung
+DOWNSCROLL	Unteres scroll
+MIDDLESCROLL	Mittleres scroll
+FLASHING_MENU	Flackerndes Menü
+CAMERA_ZOOMING_ON_BEAT	Camera Zooming auf Beat
+FPS_COUNTER	FPS Zähler
+AUTO_PENIS	Automatischer Penis
+AUTO_PAUSE	Automatische Pause
+KEYBOARD	Tastatur
+GAMEPAD	Gamepad
+UI	Oberfläche
+NOTES	NOTES
+OK	Ok
+YES	Ja
+NO	Nein
